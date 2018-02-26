@@ -5,3 +5,4 @@ alias ls='ls -GFh'
 
 alias mongo='/Users/tiago/desenvolvimento/mongodb/bin/mongo'
 alias mongod='/Users/tiago/desenvolvimento/mongodb/bin/mongod --dbpath /Users/tiago/desenvolvimento/mongodb/data/db/'
+alias exif='/Users/tiago/CommandLine/Exif/makeFoldeFormExif.py'
